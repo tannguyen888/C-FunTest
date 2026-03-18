@@ -1,0 +1,11 @@
+C:\Comp2151\Lab8\Bank\src\BankApp\bin\Debug\net9.0\BankApp.deps.json
+C:\Comp2151\Lab8\Bank\src\BankApp\bin\Debug\net9.0\BankApp.dll
+C:\Comp2151\Lab8\Bank\src\BankApp\bin\Debug\net9.0\BankApp.pdb
+C:\Comp2151\Lab8\Bank\src\BankApp\obj\Debug\net9.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Comp2151\Lab8\Bank\src\BankApp\obj\Debug\net9.0\BankApp.AssemblyInfoInputs.cache
+C:\Comp2151\Lab8\Bank\src\BankApp\obj\Debug\net9.0\BankApp.AssemblyInfo.cs
+C:\Comp2151\Lab8\Bank\src\BankApp\obj\Debug\net9.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Comp2151\Lab8\Bank\src\BankApp\obj\Debug\net9.0\BankApp.dll
+C:\Comp2151\Lab8\Bank\src\BankApp\obj\Debug\net9.0\refint\BankApp.dll
+C:\Comp2151\Lab8\Bank\src\BankApp\obj\Debug\net9.0\BankApp.pdb
+C:\Comp2151\Lab8\Bank\src\BankApp\obj\Debug\net9.0\ref\BankApp.dll
